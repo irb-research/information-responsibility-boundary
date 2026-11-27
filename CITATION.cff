@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: If you refer to this framework, please cite the paper below.
+title: Information-Responsibility Boundary
+authors:
+- family-names: Pyshkin
+  given-names: Denis
+  affiliation: ITMO University
+- family-names: Shipitsyn
+  given-names: Artem-Jan
+  affiliation: ITMO University
+- family-names: Kupriianova
+  given-names: Irina
+  affiliation: ITMO University
+- family-names: Filatova
+  given-names: Anastasiia
+  affiliation: ITMO University
+repository-code: https://github.com/irb-research/information-responsibility-boundary
+url: https://openreview.net/forum?id=YrGzImXyBH
+preferred-citation:
+  type: conference-paper
+  title: 'Preserve, Clarify, Infer, Decide, Ignore: An Information-Responsibility Boundary for Human-Directed Agents'
+  authors:
+  - family-names: Pyshkin
+    given-names: Denis
+    affiliation: ITMO University
+  - family-names: Shipitsyn
+    given-names: Artem-Jan
+    affiliation: ITMO University
+  - family-names: Kupriianova
+    given-names: Irina
+    affiliation: ITMO University
+  - family-names: Filatova
+    given-names: Anastasiia
+    affiliation: ITMO University
+  year: 2026
+  conference:
+    name: 'Interpreting Agent Behavior: Human-Centered Interpretation for Understanding Agents, Humans, and Interaction (NeurIPS 2026 Workshop)'
+  url: https://openreview.net/forum?id=YrGzImXyBH
